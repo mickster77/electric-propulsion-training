@@ -27,4 +27,4 @@ To contribute, issue a pull-request on ```index.md``` with content formatted in 
 *Contributed by [INITIAL. LASTNAME](github account link)*
 ```  
 
-If you are unfamiliar with github and/or Markdown, provide [Nate Costello](natecostello@gmail.com) with the requested information to make the contribution on your behalf.
+If you are unfamiliar with github and/or Markdown, provide [Nate Costello](mailto:natecostello@gmail.com) with the requested information to make the contribution on your behalf.
