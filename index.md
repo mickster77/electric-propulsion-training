@@ -1,7 +1,3 @@
-# Electric Propulsion Training Sources
-
-This page is a resource for NAVSEA engineers looking to develop the requisite knowledge and skills to understand, manage, and maintain projects involving electric propulsion or adjacent equipment.  Commentary and opinions provided are mine.
-
 ## Recommended Reading/Consumption List
 ### [Walter Lewin's 8.02 (Electricity and Magnetism) Lectures](https://www.youtube.com/playlist?list=PLyQSN7X0ro2314mKyUiOILaOC2hk6Pc3j)
 >Walter Lewin's 8.02 video lectures are a series of engaging and visually rich physics lectures that cover the fundamental principles of electromagnetism, taught by the charismatic and energetic physicist, Walter Lewin.  
@@ -56,7 +52,6 @@ Symmetrical Component Analysis
 
 
 ## Recommended Formal Course Work
-&nbsp;  
 ### [Naval Post-graduate School - Electric Ships Power Systems]((https://www.nps.edu/documents/103424449/106895289/ECE_ElectricShips.pdf/8bdd8bef-bd3c-4293-84c3-dd6d4903939b?t=1457388522000))
 >Provides a solid engineering foundation which covers the fundamental concepts in electrical power conversion and electromechanical power conversion at the advanced level. This coherent program is obtained by taking a 4-graduate-course sequence which provides a mixture of instruction and computer-based laboratories offering students the opportunity to study the behavior and performance of power systems in a virtual environment.
 >
@@ -78,7 +73,7 @@ This certificate program provides a solid basis for understanding electric propu
 DQ0 Transforms, Equivalent Circuit Models, Power Conversion, Motor Theory/Design, PID Control
 
 ### [MIT - Design of Electric Motors, Generators, and Drive Systems](https://professional.mit.edu/course-catalog/design-electric-motors-generators-and-drive-systems)
->This course focuses on the analysis and design of electric motors, generators, and associated power electronic drive systems, placing special emphasis on the design of machines for electric drives, including traction drives, drive motors for automated manufacturing (robots), material handling and drive motors for automotive, aircraft and marine propulsion systems, and associated power electronic drives. Participants will gain extensive hands-on experience by participating in computer-based laboratory exercises in a MATLAB-compatible, open-source scientific analysis tool called Octave. Participants will also engage in a hardware build session using an Infineon “Programmable System on Chip” (PSoC) 5LP to control a machine in our instructional laboratories.
+>This course focuses on the analysis and design of electric motors, generators, and associated power electronic drive systems, placing special emphasis on the design of machines for electric drives, including traction drives, drive motors for automated manufacturing (robots), material handling and drive motors for automotive, aircraft and marine propulsion systems, and associated power electronic drives. Participants will gain extensive hands-on experience by participating in computer-based laboratory exercises in a MATLAB-compatible, open-source scientific analysis tool called Octave. Participants will also engage in a hardware build session using an Infineon “Programmable System on Chip” (PSoC) 5LP to control a machine in our instructional laboratories.  
 <cite>-MIT</cite>
 
  
