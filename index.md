@@ -141,4 +141,4 @@ These resources were selected to build specific set of knowledge and skills freq
  
 &nbsp;  
 &nbsp;  
-**Do you have something to add?  We are actively seeking [contributions!](contributing.html)**
+**Do you have something to add?  We are actively seeking [contributions!](/CONTRIBUTING.html)**
