@@ -4,12 +4,14 @@ If you have suggested resources that you have personal experience with, don't he
 
 If so please, follow the following template:
 
-```## [Resource Title](Link to resource)```  
-```> Third Party Description```
-```<cite>-source</cite>```  
-```### Commentary```   
-```Your commentary on the quality, etc```   
-```### Objectives Covered```  
-```comma, separated, objectives```  
+```
+## [Resource Title](Link to resource)   
+> Third Party Description
+><cite>-source</cite>  
+### Commentary
+Your commentary on the quality, etc
+### Objectives Covered
+comma, separated, objectives
+```  
 
 If you have suggested skills, or knowledge areas that should be included in the list of objectives, again, please issue a pull request on index.md.  Keep objectives short, and comma free.
