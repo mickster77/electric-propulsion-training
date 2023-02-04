@@ -135,4 +135,10 @@ These resources were selected to build specific set of knowledge and skills freq
 
 **Boring (But Necessary)**
 * Project Management
-* Standard Contract Types
+* Standard Contract Types  
+
+
+ 
+&nbsp;  
+&nbsp;  
+**Do you have something to add?  We are actively seeking [contributions!](contributing.html)**
