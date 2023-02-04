@@ -2,53 +2,14 @@
 
 This page is a resource for NAVSEA engineers looking to develop the requisite knowledge and skills to understand, manage, and maintain projects involving electric propulsion or adjacent equipment.  Commentary and opinions provided are mine.
 
-## Learning Objectives
-
-To develop the following knowledge and skills:
-
-* Electrical (Theory):
-    * Maxwell's Equations
-    * Poynting
-    * DQ0 Transforms
-    * Equivalent Circuit Models
-    * Symmetrical Component Analysis
-    * Power Conversion
-    * Motor Theory/Design
-    * Generator Theory/Design
-    * Arcs/Corona/Partial Discharge  
-&nbsp;
-* Electrical (Practical)
-    * Insulation
-    * Magnetic Bearings
-    * Ampacity  
-&nbsp;
-* Mechanical
-    * Rotor-dynamics
-    * Bearings
-    * Stress/Strain
-    * Fastener Mechanics  
-&nbsp;
-* Mathematical/Abstract
-    * Fourier Transforms
-    * Sampling Theory
-    * Resonance
-    * PID Control
-    * Advanced Control  
-&nbsp;
-
-* Boring (But Necessary)
-    * Project Management
-    * Standard Contract Types
-
 ## Recommended Reading/Consumption List
-&nbsp;  
 ### [Walter Lewin's 8.02 (Electricity and Magnetism) Lectures](https://www.youtube.com/playlist?list=PLyQSN7X0ro2314mKyUiOILaOC2hk6Pc3j)
 >Walter Lewin's 8.02 video lectures are a series of engaging and visually rich physics lectures that cover the fundamental principles of electromagnetism, taught by the charismatic and energetic physicist, Walter Lewin.  
 <cite>-ChatGPT<cite>
 
 These lectures comprise 8.02, MIT's E&M Physics course, usually taken by freshmen during their second semester.  You will find, if you are like most engineers, that there are many things you have forgotten, or mis-remembered in the years since collage.  Approach the material assuming you don't know it and revisit these lectures every few years.
 
-**Objectives**
+ **Objectives:**
 Maxwell's Equations, Arcs/Corona/Partial Discharge
 
 ### [A Student's Guide to Maxwells Equations](https://www.danfleisch.com/maxwell/)
@@ -58,7 +19,7 @@ Maxwell's Equations, Arcs/Corona/Partial Discharge
  
 This book is a fantastic, concise, walk through Maxwell's four equations.  Read it, do all the problems.
 
- **Objectives**
+  **Objectives:**
 Maxwell's Equations
 
 
@@ -70,7 +31,7 @@ Maxwell's Equations
  
 This book provides a solid introduction to electric machinery and the [DQ0 transform](https://en.wikipedia.org/wiki/Direct-quadrature-zero_transformation).  Work through the first chapter in detail, doing the math alongside and ahead of the author.  This will give help fully internalize the approach of equivalent circuit representations for motors and transformers.  Do the same for chapter 3.  
 
- **Objectives**
+  **Objectives:**
 DQ0 Transforms, Equivalent Circuit Models, Power Conversion, Motor Theory/Design, Generator Theory/Design
 
 ### [Design of Rotating Electrical Machines]((https://www.wiley.com/en-us/Design+of+Rotating+Electrical+Machines,+2nd+Edition-p-9781118581575))
@@ -80,7 +41,7 @@ DQ0 Transforms, Equivalent Circuit Models, Power Conversion, Motor Theory/Design
  
 This book is relatively new.  It probably has the best illustrations of key concepts available in print.  It's description of flux leakage in chapter 4 is exceptional.
 
- **Objectives**
+  **Objectives:**
 Motor Theory/Design, Generator Theory/Design
 
 ### [Tutorial on Symmetrical Components](https://cdn.selinc.com/assets/Literature/Publications/White%20Papers/LWP0010-01_TutorialSymmetrical-Pt1_AR_20130422.pdf) and [Answer Key](https://selinc.com/api/download/100688)
@@ -90,7 +51,7 @@ Motor Theory/Design, Generator Theory/Design
  
 Symmetrical components are a fundamental tool for evaluating and understanding many subtle aspects of rotating machinery performance, its not just for relay engineers.  It changed Henke's life.
 
- **Objectives**
+  **Objectives:**
 Symmetrical Component Analysis
 
 
@@ -118,7 +79,7 @@ This certificate program provides a solid basis for understanding electric propu
 
 At a minimum candidates should possess solid familiarity with Maxwell's equations prior to pursuing this program to maximize value.
 
- **Objectives**
+  **Objectives:**
 DQ0 Transforms, Equivalent Circuit Models, Power Conversion, Motor Theory/Design, PID Control
 
 ### [MIT - Design of Electric Motors, Generators, and Drive Systems](https://professional.mit.edu/course-catalog/design-electric-motors-generators-and-drive-systems)
@@ -130,7 +91,7 @@ This is a very fast paced course.  It is a good follow to the NPS certificate pr
 
 Based on discussions with the lead professor, in recent years they have worked to make the remote option as close as possible to the in person option.  For the physical lab work they provide the equipment via mail to the attendee and labs are worked remotely and in person together in realtime.  Given this, this course should be offered to qualifying engineers liberally.
 
- **Objectives**
+ **Objectives:**
 Maxwell's Equations, Poynting, DQ0 Transforms, Equivalent Circuit Models, Power Conversion, Motor Theory/Design, PID Control
 
 ## Recommended Informal Course Work
@@ -142,5 +103,46 @@ Maxwell's Equations, Poynting, DQ0 Transforms, Equivalent Circuit Models, Power 
  
 This course probably won't teach much to a five-year NAVSEA engineer that they won't have already learned the hard way.  In other words, it's an incredibly valuable course to a first or second year engineer.  Covers all the basics: earned value, CPI, SPI, and the triangle of doom.
 
- **Objectives**
+ **Objectives:** 
 Project Management
+
+## Learning Objectives
+
+These resources were selected to build specific set of knowledge and skills frequently come up when dealing with electric propulsion components and systems.
+
+**Electrical (Theory):**
+* Maxwell's Equations
+* Poynting
+* DQ0 Transforms
+* Equivalent Circuit Models
+* Symmetrical Component Analysis
+* Power Conversion
+* Motor Theory/Design
+* Generator Theory/Design
+* Arcs/Corona/Partial Discharge  
+&nbsp;  
+
+**Electrical (Practical)**
+* Insulation
+* Magnetic Bearings
+* Ampacity  
+&nbsp;  
+
+**Mechanical**
+* Rotor-dynamics
+* Bearings
+* Stress/Strain
+* Fastener Mechanics  
+&nbsp;  
+
+**Mathematical/Abstract**
+* Fourier Transforms
+* Sampling Theory
+* Resonance
+* PID Control
+* Advanced Control  
+&nbsp;  
+
+**Boring (But Necessary)**
+* Project Management
+* Standard Contract Types
