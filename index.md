@@ -72,12 +72,7 @@ Symmetrical Component Analysis
 ><cite>-NPS</cite>
 
  
-This certificate program provides a solid basis for understanding electric propulsion systems.  Key skills/knowledge that will be gained:
-* Analysis methods for common converter topology
-* Reference frame transformation for rotating equipment
-* Control methods for systems with motors driven by power conversion equipment
-
-At a minimum candidates should possess solid familiarity with Maxwell's equations prior to pursuing this program to maximize value.
+This certificate program provides a solid basis for understanding electric propulsion systems.  At a minimum candidates should possess solid familiarity with Maxwell's equations prior to pursuing this program to maximize value.  The pace is pretty slow allowing good uptake, and the time demand is low.
 
   **Objectives:**
 DQ0 Transforms, Equivalent Circuit Models, Power Conversion, Motor Theory/Design, PID Control
