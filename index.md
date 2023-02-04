@@ -45,7 +45,7 @@ Motor Theory/Design, Generator Theory/Design
 <cite>-Amberg and Rangel</cite>
 
  
-Symmetrical components are a fundamental tool for evaluating and understanding many subtle aspects of rotating machinery performance, its not just for relay engineers.  It changed Henke's life.
+Symmetrical components are a fundamental tool for evaluating and understanding many subtle aspects of rotating machinery performance, its not just for relay engineers.
 
   **Objectives:**
 Symmetrical Component Analysis
