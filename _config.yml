@@ -13,3 +13,7 @@ include:
   - ISSUE_TEMPLATE.md
   - PULL_REQUEST_TEMPLATE.md
 remote_theme: pages-themes/minimal@v0.2.0
+
+# Meta
+title: Electric Propulsion Training Resources
+description: This page is a resource for NAVSEA engineers looking to develop the requisite knowledge and skills to understand, manage, and maintain projects involving electric propulsion or adjacent equipment. Commentary and opinions provided are mine.
