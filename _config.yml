@@ -18,3 +18,5 @@ remote_theme: pages-themes/minimal@v0.2.0
 # Meta
 title: Electric Propulsion Training Resources
 description: This page is a resource for engineers looking to develop the requisite knowledge and skills to understand, manage, and maintain projects involving electric propulsion or adjacent equipment.
+
+# This page was based on information provided here: https://nicolas-van.github.io/easy-markdown-to-github-pages/
