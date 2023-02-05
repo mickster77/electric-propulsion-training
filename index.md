@@ -12,7 +12,6 @@ Maxwell's Equations, Arcs/Corona/Partial Discharge
 >"A Student's Guide to Maxwell's Equations" by Dan Fleisch is a comprehensive textbook that covers the fundamental laws of electromagnetism, including the four Maxwell's equations and relationships between electric/magnetic fields, charges, and currents, with numerous examples, exercises and an accessible writing style for undergraduate students with varying backgrounds in physics.  
 <cite>-ChatGPT<cite>
 
- 
 This book is a fantastic, concise, walk through Maxwell's four equations.  Read it, do all the problems.
 
   **Objectives:**
@@ -27,7 +26,7 @@ Maxwell's Equations
  
 This book provides a solid introduction to electric machinery and the [DQ0 transform](https://en.wikipedia.org/wiki/Direct-quadrature-zero_transformation).  Work through the first chapter in detail, doing the math alongside and ahead of the author.  This will give help fully internalize the approach of equivalent circuit representations for motors and transformers.  Do the same for chapter 3.  
 
-  **Objectives:**
+**Objectives:**
 DQ0 Transforms, Equivalent Circuit Models, Power Conversion, Motor Theory/Design, Generator Theory/Design
 
 ### [Design of Rotating Electrical Machines]((https://www.wiley.com/en-us/Design+of+Rotating+Electrical+Machines,+2nd+Edition-p-9781118581575))
@@ -37,7 +36,7 @@ DQ0 Transforms, Equivalent Circuit Models, Power Conversion, Motor Theory/Design
  
 This book is relatively new.  It probably has the best illustrations of key concepts available in print.  It's description of flux leakage in chapter 4 is exceptional.
 
-  **Objectives:**
+**Objectives:**
 Motor Theory/Design, Generator Theory/Design
 
 ### [Tutorial on Symmetrical Components](https://cdn.selinc.com/assets/Literature/Publications/White%20Papers/LWP0010-01_TutorialSymmetrical-Pt1_AR_20130422.pdf) and [Answer Key](https://selinc.com/api/download/100688)
@@ -47,12 +46,37 @@ Motor Theory/Design, Generator Theory/Design
  
 Symmetrical components are a fundamental tool for evaluating and understanding many subtle aspects of rotating machinery performance, its not just for relay engineers.
 
-  **Objectives:**
+**Objectives:**
 Symmetrical Component Analysis
 
+### [Copper for Busbars: Guidance for Design and Installation](https://electrical-engineering-portal.com/res/Copper-for-busbars.pdf)
+>The issues that need to be addressed in the design of busbar systems are:
+>* Temperature rise due to energy losses
+>* Energy efficiency and lifetime cost
+>* Short-circuit current stresses and protection
+>* Jointing methods and performance
+>* Maintenance.  
+>
+>This book provides the information needed to design efficient, economic and reliable busbar systems.  
+<cite>-Chapman</cite>
+
+This publication has proven valuable during evaluation of buswork in large power conversion equipment as well as large motor coil design.  It's accessible and provides a deeper basis for understanding and evaluating buswork beyond standard commercial and military specifications.
+
+**Objectives:**
+Ampacity, Buswork Design
 
 ## Recommended Formal Course Work
-### [Naval Post-graduate School - Electric Ships Power Systems]((https://www.nps.edu/documents/103424449/106895289/ECE_ElectricShips.pdf/8bdd8bef-bd3c-4293-84c3-dd6d4903939b?t=1457388522000))
+
+### [Bettis Reactor Engineering School](https://www.navy.com/sites/default/files/2018-03/reactors_engineer-brochure_0.pdf)
+>...provides a post-graduate certificate program in nuclear engineering with a focus on nuclear reactor design, construction, and operations.  
+<cite>-[Wikipedia](https://en.wikipedia.org/wiki/Bettis_Atomic_Power_Laboratory)<cite/>
+
+While not widely available, this six month program provides a solid foundation in mechanical engineering disciplines that many electrical engineers do not have.  While less critical for power conversion and control components of electrical propulsion, they are extremely important for work related to rotating electrical machinery.
+
+**Objectives:**
+Fourier Transform, Stress/Strain and Fatigue Analysis
+
+### [NPS - Electric Ships Power Systems]((https://www.nps.edu/documents/103424449/106895289/ECE_ElectricShips.pdf/8bdd8bef-bd3c-4293-84c3-dd6d4903939b?t=1457388522000))
 >Provides a solid engineering foundation which covers the fundamental concepts in electrical power conversion and electromechanical power conversion at the advanced level. This coherent program is obtained by taking a 4-graduate-course sequence which provides a mixture of instruction and computer-based laboratories offering students the opportunity to study the behavior and performance of power systems in a virtual environment.
 >
 >The 4-graduate-course sequence is extracted from the current set of graduate courses required to complete the Solid State Microelectronics and Power Systems specialization track for the MSEE Degree offered by the ECE Department.
@@ -66,11 +90,11 @@ Symmetrical Component Analysis
 >
 ><cite>-NPS</cite>
 
- 
-This certificate program provides a solid basis for understanding electric propulsion systems.  At a minimum candidates should possess solid familiarity with Maxwell's equations prior to pursuing this program to maximize value.  The pace is pretty slow allowing good uptake, and the time demand is low.
+This certificate program provides a solid basis for understanding electric propulsion systems.  At a minimum candidates should possess solid familiarity with Maxwell's equations prior to pursuing this program to maximize value.  The pace is pretty slow allowing good uptake, and the time demand is low.  Alternatively, these courses are available as part of the NPS/BRES MSES EE track.
 
-  **Objectives:**
+**Objectives:**
 DQ0 Transforms, Equivalent Circuit Models, Power Conversion, Motor Theory/Design, PID Control
+
 
 ### [MIT - Design of Electric Motors, Generators, and Drive Systems](https://professional.mit.edu/course-catalog/design-electric-motors-generators-and-drive-systems)
 >This course focuses on the analysis and design of electric motors, generators, and associated power electronic drive systems, placing special emphasis on the design of machines for electric drives, including traction drives, drive motors for automated manufacturing (robots), material handling and drive motors for automotive, aircraft and marine propulsion systems, and associated power electronic drives. Participants will gain extensive hands-on experience by participating in computer-based laboratory exercises in a MATLAB-compatible, open-source scientific analysis tool called Octave. Participants will also engage in a hardware build session using an Infineon “Programmable System on Chip” (PSoC) 5LP to control a machine in our instructional laboratories.  
@@ -81,8 +105,16 @@ This is a very fast paced course.  It is a good follow to the NPS certificate pr
 
 Based on discussions with the lead professor, in recent years they have worked to make the remote option as close as possible to the in person option.  For the physical lab work they provide the equipment via mail to the attendee and labs are worked remotely and in person together in realtime.  Given this, this course should be offered to qualifying engineers liberally.
 
- **Objectives:**
+**Objectives:**
 Maxwell's Equations, Poynting, DQ0 Transforms, Equivalent Circuit Models, Power Conversion, Motor Theory/Design, PID Control
+
+### [NPS - ME4522 Finite Element Methods in Structural Dynamics](https://nps.edu/documents/104111578/117929726/NPS+Academic-Catalog+JAN+2022.pdf/d90cb596-0497-f769-3d66-da5d19b3a23a?t=1643044362882)
+>This course provides an introduction to the principles and methods of computational structural dynamics and vibration analysis. Modern computational methods make use of the matrix structural models provided by finite element analysis. Therefore, this course provides an introduction to dynamic analysis using the finite element method, and introduces concepts and methods in the calculation of modal parameters, dynamic response via mode superposition, frequency response, model reduction, and structural synthesis techniques. Experimental modal identification techniques will be introduced.  
+<cite>-NPS</cite>
+
+This course is offered as an option as part of the NPS/BRES MSES ME track.  Whether it can be included as part of the MSES EE track or as a stand-along course is TBD.  In any case, it extremely valuable knowledge and skills for anyone what works with large scale rotating electrical machinery.  It provides a solid introduction of the Lagrangian formulation of kinematics and modal analysis, skills often lacking among electrical engineers.
+
+**Objectives:** Structural Dynamics/Modal Analysis, Rotor-dynamics
 
 ## Recommended Informal Course Work
 
@@ -115,18 +147,20 @@ These resources were selected to build specific set of knowledge and skills freq
 **Electrical (Practical)**
 * Insulation
 * Magnetic Bearings
-* Ampacity  
+* Ampacity
+* Buswork Design 
 &nbsp;  
 
 **Mechanical**
+* Structural Dynamics/Modal Analysis
 * Rotor-dynamics
 * Bearings
-* Stress/Strain
+* Stress/Strain and Fatigue Analysis
 * Fastener Mechanics  
 &nbsp;  
 
 **Mathematical/Abstract**
-* Fourier Transforms
+* Fourier Transform
 * Sampling Theory
 * Resonance
 * PID Control
