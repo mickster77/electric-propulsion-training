@@ -5,7 +5,7 @@
 
 These lectures comprise 8.02, MIT's E&M Physics course, usually taken by freshmen during their second semester.  You will find, if you are like most engineers, that there are many things you have forgotten, or mis-remembered in the years since collage.  Approach the material assuming you don't know it and revisit these lectures every few years.
 
- **Objectives:**
+**Objectives:**
 Maxwell's Equations, Arcs/Corona/Partial Discharge
 
 ### [A Student's Guide to Maxwells Equations](https://www.danfleisch.com/maxwell/)
@@ -14,7 +14,7 @@ Maxwell's Equations, Arcs/Corona/Partial Discharge
 
 This book is a fantastic, concise, walk through Maxwell's four equations.  Read it, do all the problems.
 
-  **Objectives:**
+**Objectives:**
 Maxwell's Equations
 
 
@@ -60,7 +60,7 @@ Symmetrical Component Analysis
 >This book provides the information needed to design efficient, economic and reliable busbar systems.  
 <cite>-Chapman</cite>
 
-This publication has proven valuable during evaluation of buswork in large power conversion equipment as well as large motor coil design.  It's accessible and provides a deeper basis for understanding and evaluating buswork beyond standard commercial and military specifications.
+This publication has proven valuable during evaluation of buswork in large power conversion equipment as well as large motor coil fabrication.  It's accessible and provides a deep basis for understanding and evaluating buswork beyond standard commercial and military specifications.
 
 **Objectives:**
 Ampacity, Buswork Design
