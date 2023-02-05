@@ -112,7 +112,7 @@ Maxwell's Equations, Poynting, DQ0 Transforms, Equivalent Circuit Models, Power 
 >This course provides an introduction to the principles and methods of computational structural dynamics and vibration analysis. Modern computational methods make use of the matrix structural models provided by finite element analysis. Therefore, this course provides an introduction to dynamic analysis using the finite element method, and introduces concepts and methods in the calculation of modal parameters, dynamic response via mode superposition, frequency response, model reduction, and structural synthesis techniques. Experimental modal identification techniques will be introduced.  
 <cite>-NPS</cite>
 
-This course is offered as an option as part of the NPS/BRES MSES ME track.  Whether it can be included as part of the MSES EE track or as a stand-along course is TBD.  In any case, it extremely valuable knowledge and skills for anyone what works with large scale rotating electrical machinery.  It provides a solid introduction of the Lagrangian formulation of kinematics and modal analysis, skills often lacking among electrical engineers.
+This course is offered as an option as part of the NPS/BRES MSES ME track.  Whether it can be included as part of the MSES EE track or as a stand-along course is TBD.  In any case, it provides extremely valuable knowledge and skills for anyone that works with large scale rotating electrical machinery.  It provides a solid introduction of the Lagrangian formulation of kinematics and modal analysis, skills often lacking among electrical engineers.
 
 **Objectives:** Structural Dynamics/Modal Analysis, Rotor-dynamics
 
