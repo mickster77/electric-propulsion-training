@@ -1,4 +1,4 @@
-## Recommended Reading/Consumption List
+## Recommended Independent Study
 ### [Walter Lewin's 8.02 (Electricity and Magnetism) Lectures](https://www.youtube.com/playlist?list=PLyQSN7X0ro2314mKyUiOILaOC2hk6Pc3j)
 >Walter Lewin's 8.02 video lectures are a series of engaging and visually rich physics lectures that cover the fundamental principles of electromagnetism, taught by the charismatic and energetic physicist, Walter Lewin.  
 <cite>-ChatGPT<cite>
@@ -65,16 +65,34 @@ This publication has proven valuable during evaluation of buswork in large power
 **Objectives:**
 Ampacity, Buswork Design
 
-## Recommended Formal Course Work
+### [A Tutorial on the Basics of Bolted Joints](https://www.boltscience.com/pages/basics1.htm)
+>Presented in this tutorial are details about the basics of bolted joint technology and in particular on the mechanics of the load transfer mechanism involved in such joints.  
+<cite>-BoltScience</cite>
+
+This tutorial gives all the basics on fasteners, the physics of a bolted joint, and the importance of preload.  Elsewhere on the site there is a lot of great information on the merits of various locking mechanisms, with test data.  This resources is an easy power-up:  Spend an hour or so reading everything, and making sure the math is understood, and suddenly you have much better understanding of what matters with fasteners than the average electrical engineer.  The material will be much more understandable if you have some exposure to strength of materials concepts (e.g. stress/strain).
+
+**Objectives:**
+Fastener Mechanics
+
+### [SEEING CIRCLES, SINES, AND SIGNALS](https://jackschaedler.github.io/circles-sines-signals/)
+>If you’re really serious about learning the theory and practice of digital signal processing, you should not use this website as your sole resource. Wherever a compromise was necessary, I’ve erred in favor of simplicity over completeness, fun and engagement over rigor. This text is a piece of pop-science and you should treat it as such.  
+<cite>-Schaedler</cite>
+
+In spite of the author's disclaimer, this web-based explainer is a great introduction to several important subjects relevant to electrical propulsion equipment: Fourier Transform, Sampling Theory, Nyquist's Theorem, Aliasing, and more.  These concepts regularly come up in the control of electric propulsion systems and in the instrumentation and characterization of electric propulsion systems.  Also, he quotes David Foster Wallace.
+
+**Objectives:**
+Fourier Transform, Sampling Theory
+
+## Recommended Course Work
 
 ### [Bettis Reactor Engineering School](https://www.navy.com/sites/default/files/2018-03/reactors_engineer-brochure_0.pdf)
 >...provides a post-graduate certificate program in nuclear engineering with a focus on nuclear reactor design, construction, and operations.  
 <cite>-[Wikipedia](https://en.wikipedia.org/wiki/Bettis_Atomic_Power_Laboratory)<cite/>
 
-While not widely available, this six month program provides a solid foundation in mechanical engineering disciplines that many electrical engineers do not have.  While less critical for power conversion and control components of electrical propulsion, they are extremely important for work related to rotating electrical machinery.
+While not widely available, this six month program provides a solid foundation in mechanical engineering disciplines that many electrical engineers do not have.  They are extremely important for work related to large electrical machinery.
 
 **Objectives:**
-Fourier Transform, Stress/Strain and Fatigue Analysis
+Fourier Transform, Stress/Strain and Fatigue Analysis, Heat Transfer
 
 ### [NPS - Electric Ships Power Systems]((https://www.nps.edu/documents/103424449/106895289/ECE_ElectricShips.pdf/8bdd8bef-bd3c-4293-84c3-dd6d4903939b?t=1457388522000))
 >Provides a solid engineering foundation which covers the fundamental concepts in electrical power conversion and electromechanical power conversion at the advanced level. This coherent program is obtained by taking a 4-graduate-course sequence which provides a mixture of instruction and computer-based laboratories offering students the opportunity to study the behavior and performance of power systems in a virtual environment.
@@ -116,21 +134,19 @@ This course is offered as an option as part of the NPS/BRES MSES ME track.  Whet
 
 **Objectives:** Structural Dynamics/Modal Analysis, Rotor-dynamics
 
-## Recommended Informal Course Work
-
 ### [Fundamentals of Project Planning and Management](https://www.coursera.org/learn/uva-darden-project-management)
 >This is an introductory course on the key concepts of planning and executing projects. We will identify factors that lead to project success, and learn how to plan, analyze, and manage projects. Learners will be exposed to state-of-the-art methodologies and to considering the challenges of various types of projects.  
 <cite>-Coursera</cite>
 
  
-This course probably won't teach much to a five-year NAVSEA engineer that they won't have already learned the hard way.  In other words, it's an incredibly valuable course to a first or second year engineer.  Covers all the basics: earned value, CPI, SPI, and the triangle of doom.
+This course probably won't teach much to a five-year engineer that they won't have already learned the hard way.  In other words, it's an incredibly valuable course to a first or second year engineer.  Covers all the basics: earned value, CPI, SPI, and the triangle of doom.
 
  **Objectives:** 
 Project Management
 
 ## Learning Objectives
 
-These resources were selected to build specific set of knowledge and skills frequently come up when dealing with electric propulsion components and systems.
+The resources listed above were selected to build specific set of knowledge and skills frequently come up when dealing with electric propulsion components and systems.
 
 **Electrical (Theory):**
 * Maxwell's Equations
@@ -156,7 +172,8 @@ These resources were selected to build specific set of knowledge and skills freq
 * Rotor-dynamics
 * Bearings
 * Stress/Strain and Fatigue Analysis
-* Fastener Mechanics  
+* Fastener Mechanics
+* Heat Transfer
 &nbsp;  
 
 **Mathematical/Abstract**
