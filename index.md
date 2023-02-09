@@ -49,7 +49,7 @@ Symmetrical components are a fundamental tool for evaluating and understanding m
 **Objectives:**
 Symmetrical Component Analysis
 
-### [Copper for Busbars: Guidance for Design and Installation](https://electrical-engineering-portal.com/res/Copper-for-busbars.pdf)
+### [Copper for Busbars: Guidance for Design and Installation](/Copper-for-busbars.pdf)
 >The issues that need to be addressed in the design of busbar systems are:
 >* Temperature rise due to energy losses
 >* Energy efficiency and lifetime cost
