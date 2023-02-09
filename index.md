@@ -29,7 +29,7 @@ This book provides a solid introduction to electric machinery and the [DQ0 trans
 **Objectives:**
 DQ0 Transforms, Equivalent Circuit Models, Power Conversion, Motor Theory/Design, Generator Theory/Design
 
-### [Design of Rotating Electrical Machines]((https://www.wiley.com/en-us/Design+of+Rotating+Electrical+Machines,+2nd+Edition-p-9781118581575))
+### [Design of Rotating Electrical Machines](https://www.wiley.com/en-us/Design+of+Rotating+Electrical+Machines,+2nd+Edition-p-9781118581575)
 >In one complete volume, this essential reference presents an in-depth overview of the theoretical principles and techniques of electrical machine design. This timely new edition offers up-to-date theory and guidelines for the design of electrical machines, taking into account recent advances in permanent magnet machines as well as synchronous reluctance machines.  
 -<cite>Wiley</cite>
 
