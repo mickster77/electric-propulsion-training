@@ -83,6 +83,16 @@ In spite of the author's disclaimer, this web-based explainer is a great introdu
 **Objectives:**
 Fourier Transform, Sampling Theory
 
+### [FAR Part 16 - Types of Contracts](https://www.acquisition.gov/far/part-16#FAR_Subpart_16)
+>FAR Part 16, "Types of Contracts," specifies the different types of contracts that can be used in federal procurement activities, including fixed-price, cost-reimbursement, time-and-materials, and labor-hour contracts, among others.  
+<cite>-ChatGPT</cite>
+
+This is about as dry as it gets, but is the best source we've vetted.  Going forward we'll investigate the Defense Acquisition Univerity course catelog and review [this policy document linked by DFARS](https://www.acq.osd.mil/dpap/policy/policyvault/USA001270-16-DPAP.pdf) for future replacement of the FAR website as a resource.
+
+**Objectives:**
+Standard Contract Types
+
+
 ## Recommended Course Work
 
 ### [Bettis Reactor Engineering School](https://www.navy.com/sites/default/files/2018-03/reactors_engineer-brochure_0.pdf)
