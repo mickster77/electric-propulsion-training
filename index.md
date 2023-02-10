@@ -92,6 +92,12 @@ This is about as dry as it gets, but is the best source we've vetted.  Going for
 **Objectives:**
 Standard Contract Types
 
+### [Electrical Insulation for Rotating Machines: Design, Evaluation, Aging, Testing, and Repair](https://ieeexplore.ieee.org/book/5201844)
+>A single comprehensive resource for the design, application, testing, and maintenance of rotating machines
+Filling a long-standing gap in the field, Electrical Insulation for Rotating Machines covers, in one useful volume, all aspects of the design, deterioration, testing, and repair of the electrical insulation used in motors and generators. Lucidly written by leading experts, this authoritative reference provides both historical background important to understanding machine insulation design and the most up-to-date information on new machines and how to select insulation systems for them.
+<cite>-IEEE</cite>
+
+This is the go-to reference for understanding all aspects of insulation.
 
 ## Recommended Course Work
 
@@ -102,7 +108,7 @@ Standard Contract Types
 While not widely available, this six month program provides a solid foundation in mechanical engineering disciplines that many electrical engineers do not have.  They are extremely important for work related to large electrical machinery.
 
 **Objectives:**
-Fourier Transform, Stress/Strain and Fatigue Analysis, Heat Transfer
+Fourier Transform, Stress/Strain and Fatigue Analysis, Heat Transfer, Materials
 
 ### [NPS - Electric Ships Power Systems]((https://www.nps.edu/documents/103424449/106895289/ECE_ElectricShips.pdf/8bdd8bef-bd3c-4293-84c3-dd6d4903939b?t=1457388522000))
 >Provides a solid engineering foundation which covers the fundamental concepts in electrical power conversion and electromechanical power conversion at the advanced level. This coherent program is obtained by taking a 4-graduate-course sequence which provides a mixture of instruction and computer-based laboratories offering students the opportunity to study the behavior and performance of power systems in a virtual environment.
@@ -185,6 +191,7 @@ The resources listed above were selected to build specific set of knowledge and 
 * Stress/Strain and Fatigue Analysis
 * Fastener Mechanics
 * Heat Transfer
+* Materials  
 &nbsp;  
 
 **Mathematical/Abstract**
