@@ -167,7 +167,8 @@ The resources listed above were selected to build specific set of knowledge and 
 * Power Conversion
 * Motor Theory/Design
 * Generator Theory/Design
-* Arcs/Corona/Partial Discharge  
+* Arcs/Corona/Partial Discharge
+* Eddy Currents    
 &nbsp;  
 
 **Electrical (Practical)**
