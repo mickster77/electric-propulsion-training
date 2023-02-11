@@ -17,6 +17,14 @@ This book is a fantastic, concise, walk through Maxwell's four equations.  Read 
 **Objectives:**
 Maxwell's Equations
 
+### [Electric Machinery Fundementals](https://www.amazon.com/Electric-Machinery-Fundamentals-Stephen-Chapman/dp/0073529540)
+>"Electric Machinery Fundamentals" continues to be a best-selling machinery text due to its accessible, student-friendly coverage of the important topics in the field. Chapman's clear writing persists in being one of the top features of the book. 
+<cite>-ChatGPT<cite>
+
+This book is an excellent introduction to electric machines--transformers, motors, and generators. The author's style is the defining aspect. Recommend digesting this for baseline understanding of electric machines before tackling more complex texts (i.e., Krause). 
+
+**Objectives:**
+Transformers, AC Machinery Fundamentals, Synchronous Generators/Motors, Induction Motors, AC Machine Construction
 
 ### [Analysis of Electric Machinery and Drive Systems a.k.a. "Krause"](https://ieeexplore.ieee.org/book/5265638)
 ### Description:
@@ -82,6 +90,15 @@ In spite of the author's disclaimer, this web-based explainer is a great introdu
 
 **Objectives:**
 Fourier Transform, Sampling Theory
+
+### [MATLAB/Simulink Control Tutorials](https://ctms.engin.umich.edu/CTMS/index.php?aux=Home)
+>...designed to help you learn how to use MATLAB and Simulink for the analysis and design of automatic control systems. [These tutorials] cover the basics of MATLAB and Simulink and introduce the most common classical and modern control design techniques
+<cite>-Course Website</cite>
+
+This website provides introductory tutorials on how to analyze a physical system, define control equations, and utilize MATLAB/Simulink to design a control implementation.
+
+ **Objectives:** 
+Practical application of control theory
 
 ### [FAR Part 16 - Types of Contracts](https://www.acquisition.gov/far/part-16#FAR_Subpart_16)
 >FAR Part 16, "Types of Contracts," specifies the different types of contracts that can be used in federal procurement activities, including fixed-price, cost-reimbursement, time-and-materials, and labor-hour contracts, among others.  
@@ -160,6 +177,16 @@ This course probably won't teach much to a five-year engineer that they won't ha
  **Objectives:** 
 Project Management
 
+
+### [Power Electronics Specialization](https://www.coursera.org/specializations/power-electronics)
+>Design modern switched-mode power converters; create high-performance control loops around power converters; understand efficiency, power density and cost trade-offs
+<cite>-Coursera</cite>
+
+This is a 4-course series that provides a robust introduction to power electronics.  It covers the basics of swtiched-mode power supplies, topoligies, control techniques, and magnetics for power electronics.
+
+ **Objectives:** 
+Switched-mode power supply design and control. 
+
 ## Learning Objectives
 
 The resources listed above were selected to build specific set of knowledge and skills frequently come up when dealing with electric propulsion components and systems.
@@ -176,6 +203,12 @@ The resources listed above were selected to build specific set of knowledge and 
 * Arcs/Corona/Partial Discharge
 * Eddy Currents    
 &nbsp;  
+
+**Power Electronics:**
+* Design Objectives: heat, power quality, size, cost, weight, complexity, reliability
+* Switch Realization: diode, BJT, MOSFET, IGBT
+* Design Implementation: Buck, Boost, Flyback, Passives, Sw Freq, etc
+* Control: voltager control, current control, next PID control
 
 **Electrical (Practical)**
 * Insulation
