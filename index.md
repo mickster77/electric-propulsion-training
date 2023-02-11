@@ -24,7 +24,8 @@ Maxwell's Equations
 This book is an excellent introduction to electric machines--transformers, motors, and generators. The author's style is the defining aspect. Recommend digesting this for baseline understanding of electric machines before tackling more complex texts (i.e., Krause). 
 
 **Objectives:**
-Transformers, AC Machinery Fundamentals, Synchronous Generators/Motors, Induction Motors, AC Machine Construction
+Transformers Theory/Design, Motor Theory/Design, Generator Theory/Design, * Induction/Synchronous Machine, 
+AC Machinery Construction
 
 ### [Analysis of Electric Machinery and Drive Systems a.k.a. "Krause"](https://ieeexplore.ieee.org/book/5265638)
 ### Description:
@@ -182,10 +183,10 @@ Project Management
 >Design modern switched-mode power converters; create high-performance control loops around power converters; understand efficiency, power density and cost trade-offs
 <cite>-Coursera</cite>
 
-This is a 4-course series that provides a robust introduction to power electronics.  It covers the basics of swtiched-mode power supplies, topoligies, control techniques, and magnetics for power electronics.
+This is a 4-course series that provides a robust introduction to power electronics.  It covers the basics of switched-mode power supplies, topologies, control techniques, and magnetics for power electronics.
 
- **Objectives:** 
-Switched-mode power supply design and control. 
+**Objectives:** 
+Switched-Mode power supply design, Semi-conductor switch realization, Power converter topologies, Power converter control
 
 ## Learning Objectives
 
@@ -194,23 +195,40 @@ The resources listed above were selected to build specific set of knowledge and 
 **Electrical (Theory):**
 * Maxwell's Equations
 * Poynting
+* Circuit Analyis
 * DQ0 Transforms
 * Equivalent Circuit Models
 * Symmetrical Component Analysis
+
+**Electric Machinery (Theory)**
 * Power Conversion
+* Transformer Theory/Design
 * Motor Theory/Design
 * Generator Theory/Design
+* Induction/Synchronous Machine
+* Generator Excitation Systems
+* Generator Stability
 * Arcs/Corona/Partial Discharge
 * Eddy Currents    
 &nbsp;  
 
 **Power Electronics:**
-* Design Objectives: heat, power quality, size, cost, weight, complexity, reliability
-* Switch Realization: diode, BJT, MOSFET, IGBT
-* Design Implementation: Buck, Boost, Flyback, Passives, Sw Freq, etc
-* Control: voltager control, current control, next PID control
+* Switched-Mode power supply design
+* Semi-conductor switch realization
+* Power converter topologies
+* Power converter control
+
+**Control**
+* PID Control
+* State-Space
+* Digital Control
+* Advanced Control 
+* Modeling
+* MATLAB
+* Simulink
 
 **Electrical (Practical)**
+* AC Machinery Construction
 * Insulation
 * Magnetic Bearings
 * Ampacity
@@ -231,8 +249,7 @@ The resources listed above were selected to build specific set of knowledge and 
 * Fourier Transform
 * Sampling Theory
 * Resonance
-* PID Control
-* Advanced Control  
+ 
 &nbsp;  
 
 **Boring (But Necessary)**
